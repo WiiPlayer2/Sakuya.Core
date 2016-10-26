@@ -1,0 +1,3 @@
+[submodule "SharpLua"]
+	path = SharpLua
+	url = https://github.com/WiiPlayer2/SharpLua.git
